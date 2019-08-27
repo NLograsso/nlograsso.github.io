@@ -1,2 +1,2 @@
-# nicholaslograsso.github.io
+# nlograsso.github.io
 Personal Website
